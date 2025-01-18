@@ -1,5 +1,5 @@
 # Nuxt base setup
-These are the packages I use for most of my nuxt project. 
+These are the packages I use for most of my nuxt projects.
 
 ### Installing nuxt 
 - `npx nuxi@latest init <project-name>`
