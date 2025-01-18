@@ -1,12 +1,11 @@
-# nuxt-base-setup
-
+# Nuxt base setup
 These are the packages I use for most of my nuxt project. 
 
 ### Installing nuxt 
 - `npx nuxi@latest init <project-name>`
 - [read more](https://nuxt.com/docs/getting-started/installation)
 
-### Packages
+### Packages📦
 
 #### Nuxt Icons
 - `npx nuxi module add icon`
