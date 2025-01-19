@@ -13,6 +13,7 @@ These are the packages I use for most of my nuxt projects.
 
 #### Tailwind
 - `npx nuxi@latest module add tailwindcss`
+- `npx tailwindcss init` to create `tailwind.config.js`
 - [read more](https://tailwindcss.nuxtjs.org/getting-started/installation)
 
   
