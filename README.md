@@ -16,4 +16,6 @@ These are the packages I use for most of my nuxt projects.
 - `npx tailwindcss init` to create `tailwind.config.js`
 - [read more](https://tailwindcss.nuxtjs.org/getting-started/installation)
 
-  
+### Nuxt fonts
+- `npx nuxi module add fonts`
+- [read more](https://fonts.nuxt.com)
