@@ -19,3 +19,7 @@ These are the packages I use for most of my nuxt projects.
 #### Nuxt fonts
 - `npx nuxi module add fonts`
 - [read more](https://fonts.nuxt.com)
+
+### Nuxt color mode
+- `npx nuxi module add color-mode`
+- [read more](https://color-mode.nuxtjs.org/)
