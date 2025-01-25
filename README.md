@@ -23,3 +23,7 @@ These are the packages I use for most of my nuxt projects.
 ### Nuxt color mode
 - `npx nuxi module add color-mode`
 - [read more](https://color-mode.nuxtjs.org/)
+
+### Nuxt Pinia
+- `npm i pinia @pinia/nuxt`
+- [read more](https://nuxt.com/modules/pinia)
