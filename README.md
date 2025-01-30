@@ -27,3 +27,7 @@ These are the packages I use for most of my nuxt projects.
 ### Nuxt Pinia
 - `npm i pinia @pinia/nuxt`
 - [read more](https://nuxt.com/modules/pinia)
+
+### Axios
+- `npm install axios`
+- [read more](https://axios-http.com/docs/intro)
