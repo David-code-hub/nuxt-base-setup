@@ -28,6 +28,10 @@ These are the packages I use for most of my nuxt projects.
 - `npm i pinia @pinia/nuxt`
 - [read more](https://nuxt.com/modules/pinia)
 
+### Pinia Plugin Persistedstate
+- `npm i pinia-plugin-persistedstate`
+- [read more](https://prazdevs.github.io/pinia-plugin-persistedstate/frameworks/nuxt.html)
+
 ### Axios
 - `npm install axios`
 - [read more](https://axios-http.com/docs/intro)
